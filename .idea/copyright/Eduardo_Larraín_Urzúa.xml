@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="Copyright (c) &amp;#36;originalComment.match(&quot;Copyright \(c\) (\d+)&quot;, 1, &quot;-&quot;, &quot;&amp;#36;today.year&quot;)&amp;#36;today.year. eplu2017@gmail.com, https://www.webstorechile.cl. " />
+    <option name="myName" value="Eduardo Larraín Urzúa" />
+  </copyright>
+</component>
